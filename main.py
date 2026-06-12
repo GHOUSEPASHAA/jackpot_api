@@ -19,11 +19,10 @@ properties = {
 }
 
 game_titles = [
-    "Dragon Link",
-    "Lightning Link",
+    "88 Fortunes",
     "Buffalo Gold",
-    "Dancing Drums",
-    "Wheel of Fortune"
+    "Wheel of Fortune",
+    "Blackjack T1"
 ]
 
 game_models = [
